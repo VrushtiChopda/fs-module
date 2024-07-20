@@ -1,0 +1,20 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "vru"
+    },
+    {
+      "id": 2,
+      "name": "astha"
+    },
+    {
+      "id": 3,
+      "name": "vrutika"
+    },
+    {
+      "id": 4,
+      "name": "abhay"
+    }
+  ]
+}
